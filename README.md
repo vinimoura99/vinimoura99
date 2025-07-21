@@ -12,16 +12,47 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vinimoura99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🚀 42 Projects
+<h3 align="center">🚀 My Projects at 42 Porto</h3>
+<h4 align="center">Milestone 0</h4>
 
-- 🌟 [libft](https://github.com/vinimoura99/libft)
-- 🌀 [get_next_line](https://github.com/vinimoura99/get_next_line)
-- 🎯 [ft_printf](https://github.com/vinimoura99/ft_printf)
-- 💻 [born2beroot](https://github.com/vinimoura99/born2beroot)
-- 🎮 [so_long](https://github.com/vinimoura99/so_long)
-- 🚀 [push_swap](https://github.com/vinimoura99/push_swap)
-- 🔗 [pipex](https://github.com/vinimoura99/pipex)
+  <div align="center">
+  <a href="https://github.com/DanielFonsecaa/libft" target="_blank">
+    <img src="https://github.com/user-attachments/assets/0f9131f8-f78f-4b9a-8954-6a7eee0874f6" alt="ft_printf" />
+  </a>
+</div>
 
+<h4 align="center">Milestone 1</h4>
+
+<div align="center">
+  <a href="https://github.com/DanielFonsecaa/get_next_line" target="_blank">
+    <img src="https://github.com/user-attachments/assets/7eec8a00-df10-4d70-9836-552cb0f3aaad" alt="get_next_line badge" />
+  </a>
+  <a href="https://github.com/DanielFonsecaa/printf" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3f3d64d1-86a8-498e-b18d-bdeae55f2a86" alt="ft_printf badge" />
+  </a>
+ </a>
+  <a href="https://github.com/DanielFonsecaa/Born2BeRoot" target="_blank">
+    <img src="https://github.com/user-attachments/assets/714acb59-4011-469e-9127-2abfa9379501" alt="born too be root badge" />
+  </a>
+ 
+</div>
+
+<h4 align="center">Milestone 2</h4>
+<div align="center">
+  <a href="https://github.com/DanielFonsecaa/So-long-42" target="_blank">
+    <img src="https://github.com/user-attachments/assets/44d134a2-1f0b-4473-afdd-ba9ec909b5a8" alt="so long badge" />
+  </a>
+   <a href="https://github.com/DanielFonsecaa/Push_swap-42" target="_blank">
+    <img src="https://github.com/user-attachments/assets/0528f99a-4570-46b8-80b1-6b8af3df8cd8" alt="push swap badge" />
+  </a>
+ <a href="https://github.com/DanielFonsecaa/Pipex-42" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6ac48d02-1374-4a69-92c0-ada8e9cd82d4" alt="pipex badge" />
+  </a>
+
+</div>
+<br>
+
+<details align="center">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
