@@ -1,49 +1,14 @@
-👋 Welcome to my GitHub profile.
-
-I am a highly driven Developer with a robust academic foundation and intensive, project-based training. I hold a Bachelor of Science in Computer Science from Dublin Business School (DBS) and I am actively progressing through the 42 Common Core curriculum.
-
-My specialization lies in technical precision and systems-level logic. I utilize a strong fundamental knowledge base (C, C++, OOP, and Algorithms) to build and optimize low-level software solutions.
-
+#👋 Welcome to my GitHub profile. I am a highly driven Developer with a robust academic foundation and intensive, project-based training. I hold a Bachelor of Science in Computer Science from Dublin Business School (DBS) and I am actively progressing through the 42 Common Core curriculum. My specialization lies in technical precision and systems-level logic. I utilize a strong fundamental knowledge base (C, C++, OOP, and Algorithms) to build and optimize low-level software solutions.
 🎓 Education & Specialized Training
-
-    42 Common Core Student | 42 Network
-
-        Currently advancing through the rigorous curriculum, focusing on C, UNIX systems programming, concurrency, manual memory management, and low-level software architecture.
-
-    Bachelor of Science (B.Sc.) in Computer Science | Dublin Business School (DBS)
-
-        Focus: Data Structures, Algorithms, Object-Oriented Programming (OOP), and Software Engineering principles.
-
-    42 Porto Piscine Graduate | 42 Network
-
-        Successfully completed the demanding entry-level coding bootcamp, validating technical rigor and adaptability.
-
-🛠️ Core Technical Competencies
-
-Category	Skills & Focus
-Programming Languages	Proficient in C, C++, C#, and Java, with introductory experience in Python.
-Technical Fundamentals	Algorithms, Data Structures, OOP, Manual Memory Management, and Clean Code Practices.
-Development Tools	Git for version control; IDEs/Editors including Visual Studio, CLion, IntelliJ, and VS Code.
-Professional Experience	Experience working across North America and Europe in technology and business-focused roles.
-
-💡 Highlight Projects (Systems Programming)
-
-These projects demonstrate advanced proficiency in concurrency, low-level resource handling, and systems programming:
-
+    42 Common Core Student | 42 Network Currently advancing through the rigorous curriculum, focusing on C, UNIX systems programming, concurrency, manual memory management, and low-level software architecture.
+    Bachelor of Science (B.Sc.) in Computer Science | Dublin Business School (DBS) Focus: Data Structures, Algorithms, Object-Oriented Programming (OOP), and Software Engineering principles. 42 Porto Piscine Graduate | 42 Network Successfully completed the demanding entry-level coding bootcamp, validating technical rigor and adaptability.🛠️ Core Technical Competencies Category	Skills & Focus Programming Languages	Proficient in C, C++, C#, and Java, with introductory experience in Python.
+Technical Fundamentals	Algorithms, Data Structures, OOP, Manual Memory Management, and Clean Code Practices. Development Tools	Git for version control; IDEs/Editors including Visual Studio, CLion, IntelliJ, and VS Code.Professional Experience	Experience working across North America and Europe in technology and business-focused roles.💡 Highlight Projects (Systems Programming)These projects demonstrate advanced proficiency in concurrency, low-level resource handling, and systems programming:
     Minishell: A custom command-line interpreter built in C. This project involved implementing process creation (fork/exec), I/O redirection, piping, and environment variable handling, showcasing deep knowledge of UNIX system calls.
-
     Philosophers: An implementation of the classic "Dining Philosophers" concurrency problem using pthreads (POSIX threads). This project focused heavily on thread synchronization, use of mutexes, and advanced deadlock prevention strategies.
-
     libft: My personal standard C library, meticulously built from scratch to ensure complete mastery of string and memory manipulation at the function level.
-
 Currently expanding my portfolio within the 42 Common Core, with upcoming projects focused on networking and advanced systems concepts.
-
-📫 Contact
-
-I am actively seeking roles that demand strong analytical skills and a passion for fundamental systems development.
-
+📫 Contact I am actively seeking roles that demand strong analytical skills and a passion for fundamental systems development.
     LinkedIn: https://www.linkedin.com/in/vinicius-moura-da-silva-634602292/
-
     Email: vinicius_moura98@yahoo.com
 
 # 💻 Tech Stack:
